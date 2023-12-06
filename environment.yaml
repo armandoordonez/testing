@@ -1,0 +1,15 @@
+name: icesi-advanced-dl
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pandas=2.1.1
+  - matplotlib=3.8.0
+  - seaborn=0.12.2
+  - scikit-learn=1.3.0
+  - statsmodels=0.14.0
+  - ipython=8.15.0
+  - jupyterlab=4.0.8
